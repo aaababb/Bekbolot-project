@@ -1,0 +1,12 @@
+<svg width="50.000000" height="51.000000" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_4_4340" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image4_434_0" transform="matrix(0.018182,0,0,0.017825,0.1,0.107843)"/>
+		</pattern>
+		<image id="image4_434_0" width="44.000000" height="44.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAABHNCSVQICAgIfAhkiAAABBBJREFUWIXtmE9oHFUcxz+/t9kkGEyaBmKzO5NQbamwFqFe1FaMClqrRkIF7U0UUfAiIvZmEW/+OXiTnqQWKlJiS0VUNGLBXtRatKtoWjYwM1ttKoaiIQnJ+3nYbDpdZiY7k5hc9nt67/d77/v7MDP7/iy01FJL6ypJO0FVTbVafcBa+7iI7AG2AzcspS8D54Fxa+2Hg4ODF9eQFUgJHATBAVV9A7ilmfGqetIYc7BYLP6WiS5CTQF7nrdZRI4CD2eoMQ8cLBaL74qIZph/nVYE9n3fAcapvfqwqsApVf0+l8tdWVxczBljblbVe4CHgPaG8YeLxeILq4VOBF56smeAHaHwJVV9zXGc90VkIWpepVLZks/nDwHPAblQ6h3HcV7534CDIBhT1dFQ6Btgv+M4fzVj7vv+/cBxoLceU9X9ruuOZYGFBGDP80ZFZNlYRD6fnp4eKZVK82kKeJ63U0ROA5uWfP7I5/Pb+/v7/8kCbKKCqioi8nooFCwsLBxICwvguu7PqvpsyHvL3NzcixlYgRjgarV6N7AzVOTVoaGhv7MWcV13TFW/CIWeV9XUewDEP+Hwd1t1HOejLObXFTLmrXpbRLYGQXB7Jp+Y+J56Q1U/jlsN0qhQKIwDy29paZdMrTjgW0PG32UxbpSIWOBsvW+t3ZEwPFZxwD2htpfFOEb+cmFjepMGxikOeD20pj+6q6FuMRNOtAr1hrU206oTCWyM+T3UvSOLcaNU1TR4TWTxiXvC34a6o0vFVqUgCO4FNsfUaFpxwCdC3cEgCJ7IYt6gl0Lty67r/pDFJBLYcZzTwK+h0JtTU1M3ZikA4HnePmCk3heRH7MeMyOBRcQ2nCWGZmdnP1DVXNT4JHmet01EjoRjqnpTWp9ltqSk7/ufErpliMhnnZ2dT/b19V1NmBaefxdwAuhvSCmwy3Gccyl5k9fhtra2p1W1slxFde/MzMy5IAieSjq8VCqVTb7vvw18HQELtQf1ied529ICr7h4L73SL4GhhtQF4KSqnhWRS9ba9voVSURGgK4m6geqOuy67oU1A4blK88xYLhZ4xQKgDsdx/FXHEmK7VFVpVqtPqOqhwC3yWkTwJ/ALq79dxGli8BwM9Cp9/Nyudze29u7z1o7CuwGtnLtt/Av8IuIfGWtPea67k9Q+6bz+fxR4JHVQmc6gISlqmZycrK7q6trIemeVi6X23t6eo4DjyXYrQi9auA0ahJ6IpfL7R4YGJiKSq4rMNSgu7u7T4nIgwnDzhtj7isUClcaE+t+Hi6VSvO5XG6U2hodp9uste9FJTbkAF8oFGaMMY+SDD0SFdywG0cT0JEX3428IoWhz0Skj0TENhYYatAdHR17qQHOAbPAYWPMyxtL1lJLLQHwHzkpc4J9GYJZAAAAAElFTkSuQmCC"/>
+	</defs>
+	<rect id="Header → Button" rx="2.000000" width="50.000000" height="51.000000" fill="url(#pattern_4_4340)" fill-opacity="1.000000"/>
+</svg>
